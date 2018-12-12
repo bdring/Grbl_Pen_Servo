@@ -2,6 +2,8 @@
 
 #### This is standard [Grbl](https://github.com/gnea/grbl) modified for use with a pen plotter that has a hobby servo for the pen up / down.
 
+![](http://www.buildlog.net/blog/wp-content/uploads/2018/11/pen_ex.png)
+
 The servo will have two positions representing up and down. You use normal gcode. Any time the work Z is above 0 the servo will move to the pen up position. If it is at Z 0 or below it will be in the pen down position.
 
 Installation
