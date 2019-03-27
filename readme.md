@@ -28,4 +28,8 @@ Grbl is still running a full range virtual Z axis with accelerations and speeds.
 
 If you want to have the pen go to the up position at turn on, define a negative Z work offset. Send the command "G10 L2 P0 Z-2". This will trick Grbl into thinking the pen needs to be up.
 
- 
+ ### Donation
+
+Did you find this useful? Please consider a donation. 
+
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TKNJ9Z775VXB2)
